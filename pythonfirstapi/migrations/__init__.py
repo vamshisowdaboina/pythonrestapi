@@ -1,2 +1,2 @@
-Secret = "password123@"
-password = "secrete%13142"
+Secret = 'password123@'
+password = 'secrete%13142'
